@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://test1-iac.pingan.com:10336/iac_core/iac-mobile/do/version/queryIosUrl</string>
+					<string>http://stg.iobs.pingan.com.cn/download/iac-core-dmz-stg/895EDDA5AE84498B80F522E4AFDB61AB?attname=</string>
 				</dict>
 				<dict>
 					<key>kind</key>
